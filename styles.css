@@ -1,4 +1,12 @@
-h1 {
+_heading {
     text-align: center;
     color: cyan;
+}
+body {
+    background-image: url(https://www.elegantthemes.com/blog/wordpress/best-atom-packages);
+}
+_heading:hover {
+    text-transform: capitalize;
+    color: red;
+    background-color: black;
 }
