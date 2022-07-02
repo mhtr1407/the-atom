@@ -1,0 +1,9 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.multiCursorModifier": "alt",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.codeLens": true,
+    "editor.hideCursorInOverviewRuler": false,
+    "diffEditor.codeLens": true
+}

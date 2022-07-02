@@ -4,6 +4,7 @@ h1 {
 }
 body {
     background-image: url(https://scontent.fdac80-1.fna.fbcdn.net/v/t1.6435-9/127287109_102817561687757_7912566739111615036_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEvdCRxkqLECO4vFHjXIjJjRYOCE-6_UoRFg4IT7r9ShDK5F9S1CZwzbZhrJWwE1tFi8uW85lkFrdIJoHaQGHIM&_nc_ohc=Arec4QA3OFMAX86FK0U&_nc_ht=scontent.fdac80-1.fna&oh=00_AT83U2BmIKPKIKNB7FgckqlTs3YjbRSsKWEFfMYVW3IxVg&oe=62DD996C);
+    scale: device-size;
 }
 h1:hover {
     text-transform: uppercase;
